@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>ITEA_WEB_HOMEWORK_1_V2</RootNamespace>
+  </PropertyGroup>
+
+
+</Project>
